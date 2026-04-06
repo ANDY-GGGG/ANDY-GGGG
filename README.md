@@ -9,7 +9,7 @@
 
 <br>
 
-### C++ Architect | Reverse Engineer | Motion Designer
+### Arquiteto C++ | Engenheiro Reverso | Designer de Movimento
 
 <br>
 
@@ -32,21 +32,13 @@
 
 **Bypass Research** | Desenvolvendo exploits e automações de baixo nível para as plataformas de estudo do Estado do Paraná.
 
-**VULPES** | Sócio-Fundador. Agência de serviços de design, branding e CGI focada em impulsionar novas empresas e startups.
+**VULPES** | Sócio-Fundador. Agência de serviços de design, branding e CGI focada em empresas novas e startups.
 
 ---
 
 <br>
 
-> "A violação de segurança de 2025 não destruiu o sistema; ela forçou um upgrade crítico no meu kernel."
-
-<br>
-
 <!-- CONTADOR DE VISITAS MOE COUNTER -->
 <img src="https://count.getloli.com/get/@ANDY-GGGG?theme=moebooru" alt="Moe Counter" />
-
-<br>
-
-[TELEGRAM] | [DISCORD: BYPASS_GG]
 
 </div>

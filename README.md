@@ -9,7 +9,7 @@
 
 <br>
 
-### Programador C++ | Reverse Engineer | Motion Designer
+### Programador C++ | Engenheiro Reverso | Editor | Modelador 3D
 
 <br>
 

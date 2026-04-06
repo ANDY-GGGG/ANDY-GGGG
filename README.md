@@ -1,65 +1,53 @@
 <div align="center">
 
-<!-- HEADER: NOME EM ESTILO TERMINAL -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=BYPASS+|+GG+👑;ARCHITECT+|+REVERSE+ENGINEER;DOMINATING+THE+LOW-LEVEL" alt="Typing SVG" />
+`ANDY-GGGG / README.md`
 
 <br>
 
-*"A violação de segurança de 2025 não destruiu o sistema; ela forçou uma atualização do kernel."*
+<!-- NOME ANIMADO IGUAL AO DELA -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Bypass" alt="Typing SVG" />
 
 <br>
 
-<!-- TECH STACK: FOCO EM PERFORMANCE -->
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-FF0000?style=for-the-badge&logo=reverse-engineering&logoColor=white)
-![Android NDK](https://img.shields.io/badge/Android%20NDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### C++ | Reverse Engineering | Motion Design
+
 <br>
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+<!-- O SLOGAN QUE VOCÊ QUERIA -->
+**Diga não ao Python.**
+
+<br>
+
+<!-- BLOCO DE SKILLS 1 (ESTILO GRID DELA) -->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/REVERSE%20ENGINEERING-FF0000?style=for-the-badge&logo=reverse-engineering&logoColor=white" /> <img src="https://img.shields.io/badge/PAWN-E32F2F?style=for-the-badge&logo=pawn&logoColor=white" /> <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+<br>
+
+<!-- BLOCO DE SKILLS 2 -->
+<img src="https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/AFTER%20EFFECTS-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" /> <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/MODDING-FFD700?style=for-the-badge&logo=modding&logoColor=black" />
+
+<br><br>
+
+<!-- BOTÃO DE CONTATO (ESTILO TELEGRAM DELA) -->
+<a href="SEU_LINK_DO_TELEGRAM_AQUI">
+<img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br><br>
 
 ---
 
-## 📑 REGISTRO DO SISTEMA: A RESSURREIÇÃO
-
-**[ERROR_2025]:** Violação crítica de segurança. Perda total de ativos legados (YouTube/CGI).
-<br>
-**[RESPONSE]:** Imersão profunda no **submundo da engenharia russa**. Mapeamento de offsets de memória, aplicação de patches binários e otimização bruta em C++.
-<br>
-**[STATUS]:** Sistema restaurado. Base de conhecimento atualizada para **arquitetura de nível de kernel**.
-
----
-
-## 🛠️ PROJETO PRINCIPAL
-
-### 🌙 [LUAR RP](https://site-jvyfnn288-andys-projects-9e308140.vercel.app/)
-**O FiveM Mobile definitivo.**
-- **High-Fidelity:** Adaptando o mapa e assets do GTA V para o ecossistema mobile.
-- **64-bit Core:** Hooks personalizados em C++ para estabilidade e performance extrema.
-- **Next-Gen UI:** Integração de WebViews (HTML5/CSS) para uma experiência de usuário superior.
-- **Objetivo:** Estabelecer o monopólio de roleplay mobile na América Latina.
-
----
-
-## 📊 MÉTRICAS DE PERFORMANCE
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANDY-GGGG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDY-GGGG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+#### 🌙 Atualmente desenvolvendo o **[LUAR RP](https://site-jvyfnn288-andys-projects-9e308140.vercel.app/)**
+Portando a experiência de alta fidelidade do GTA V para Mobile em 64-bit.
+*Focado em Hooks nativos e interfaces modernas em HTML5/CSS.*
 
 <br>
 
-<!-- CONTADOR DE VISITAS -->
-<p align="right">
-  <code>ENCRYPTED_NODE_ACCESS</code><br>
-  <img src="https://count.getloli.com/get/@ANDY-GGGG?theme=moebooru" alt="Visitor Count" />
-</p>
+> "O hack de 2025 não foi o fim, foi o upgrade necessário para o meu kernel."
 
----
+<br>
 
-### 📡 CANAIS SEGUROS
-[DISCORD: BYPASS_GG] | [TELEGRAM] | [LUAR_RP_OFFICIAL]
-
-*"O resultado é a única documentação que eu forneço."*
+<!-- CONTADOR DE VISITAS IGUAL AO DELA (MOE COUNTER) -->
+<img src="https://count.getloli.com/get/@ANDY-GGGG?theme=moebooru" alt="Moe Counter" />
 
 </div>

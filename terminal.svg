@@ -1,0 +1,131 @@
+<svg width="450" height="180" viewBox="0 0 450 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      fill: #c9d1d9;
+      font-size: 20px;
+    }
+    
+    .phrase {
+      opacity: 0;
+      animation: phrase-switch 27s infinite;
+    }
+    .p1 { animation-delay: 0s; }
+    .p2 { animation-delay: 3s; }
+    .p3 { animation-delay: 6s; }
+    .p4 { animation-delay: 9s; }
+    .p5 { animation-delay: 12s; }
+    .p6 { animation-delay: 15s; }
+    .p7 { animation-delay: 18s; }
+    .p8 { animation-delay: 21s; }
+    .p9 { animation-delay: 24s; }
+
+    @keyframes phrase-switch {
+      0%, 11.11% { opacity: 1; }
+      11.12%, 100% { opacity: 0; }
+    }
+
+    .cursor { fill: #58a6ff; }
+    .blink { animation: blink 0.8s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    /* Keyframes de REVELAÇÃO (Cresce a largura) */
+    @keyframes rev-1 { 0% { width: 0; } 40%, 85% { width: 144px; } 95%, 100% { width: 0; } }
+    @keyframes rev-2 { 0% { width: 0; } 40%, 85% { width: 156px; } 95%, 100% { width: 0; } }
+    @keyframes rev-3 { 0% { width: 0; } 40%, 85% { width: 216px; } 95%, 100% { width: 0; } }
+    @keyframes rev-4 { 0% { width: 0; } 40%, 85% { width: 180px; } 95%, 100% { width: 0; } }
+    @keyframes rev-5 { 0% { width: 0; } 40%, 85% { width: 252px; } 95%, 100% { width: 0; } }
+    @keyframes rev-6 { 0% { width: 0; } 40%, 85% { width: 144px; } 95%, 100% { width: 0; } }
+    @keyframes rev-7 { 0% { width: 0; } 40%, 85% { width: 228px; } 95%, 100% { width: 0; } }
+    @keyframes rev-8 { 0% { width: 0; } 40%, 85% { width: 216px; } 95%, 100% { width: 0; } }
+    @keyframes rev-9 { 0% { width: 0; } 40%, 85% { width: 156px; } 95%, 100% { width: 0; } }
+
+    /* Keyframes de MOVIMENTO DO CURSOR (Desloca para a direita) */
+    @keyframes mov-1 { 0% { transform: translateX(0); } 40%, 85% { transform: translateX(144px); } 95%, 100% { transform: translateX(0); } }
+    @keyframes mov-2 { 0% { transform: translateX(0); } 40%, 85% { transform: translateX(156px); } 95%, 100% { transform: translateX(0); } }
+    @keyframes mov-3 { 0% { transform: translateX(0); } 40%, 85% { transform: translateX(216px); } 95%, 100% { transform: translateX(0); } }
+    @keyframes mov-4 { 0% { transform: translateX(0); } 40%, 85% { transform: translateX(180px); } 95%, 100% { transform: translateX(0); } }
+    @keyframes mov-5 { 0% { transform: translateX(0); } 40%, 85% { transform: translateX(252px); } 95%, 100% { transform: translateX(0); } }
+    @keyframes mov-6 { 0% { transform: translateX(0); } 40%, 85% { transform: translateX(144px); } 95%, 100% { transform: translateX(0); } }
+    @keyframes mov-7 { 0% { transform: translateX(0); } 40%, 85% { transform: translateX(228px); } 95%, 100% { transform: translateX(0); } }
+    @keyframes mov-8 { 0% { transform: translateX(0); } 40%, 85% { transform: translateX(216px); } 95%, 100% { transform: translateX(0); } }
+    @keyframes mov-9 { 0% { transform: translateX(0); } 40%, 85% { transform: translateX(156px); } 95%, 100% { transform: translateX(0); } }
+
+    /* Atribuição das animações com steps individuais */
+    .m1 { animation: rev-1 3s steps(12) infinite; }
+    .m2 { animation: rev-2 3s steps(13) infinite; }
+    .m3 { animation: rev-3 3s steps(18) infinite; }
+    .m4 { animation: rev-4 3s steps(15) infinite; }
+    .m5 { animation: rev-5 3s steps(21) infinite; }
+    .m6 { animation: rev-6 3s steps(12) infinite; }
+    .m7 { animation: rev-7 3s steps(19) infinite; }
+    .m8 { animation: rev-8 3s steps(18) infinite; }
+    .m9 { animation: rev-9 3s steps(13) infinite; }
+
+    .c1 { animation: mov-1 3s steps(12) infinite; }
+    .c2 { animation: mov-2 3s steps(13) infinite; }
+    .c3 { animation: mov-3 3s steps(18) infinite; }
+    .c4 { animation: mov-4 3s steps(15) infinite; }
+    .c5 { animation: mov-5 3s steps(21) infinite; }
+    .c6 { animation: mov-6 3s steps(12) infinite; }
+    .c7 { animation: mov-7 3s steps(19) infinite; }
+    .c8 { animation: mov-8 3s steps(18) infinite; }
+    .c9 { animation: mov-9 3s steps(13) infinite; }
+  </style>
+
+  <defs>
+    <clipPath id="cp1"><rect class="m1" x="25" y="80" height="100" width="0"/></clipPath>
+    <clipPath id="cp2"><rect class="m2" x="25" y="80" height="100" width="0"/></clipPath>
+    <clipPath id="cp3"><rect class="m3" x="25" y="80" height="100" width="0"/></clipPath>
+    <clipPath id="cp4"><rect class="m4" x="25" y="80" height="100" width="0"/></clipPath>
+    <clipPath id="cp5"><rect class="m5" x="25" y="80" height="100" width="0"/></clipPath>
+    <clipPath id="cp6"><rect class="m6" x="25" y="80" height="100" width="0"/></clipPath>
+    <clipPath id="cp7"><rect class="m7" x="25" y="80" height="100" width="0"/></clipPath>
+    <clipPath id="cp8"><rect class="m8" x="25" y="80" height="100" width="0"/></clipPath>
+    <clipPath id="cp9"><rect class="m9" x="25" y="80" height="100" width="0"/></clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="440" height="160" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="25" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="22" r="6" fill="#27c93f"/>
+  <text x="25" y="65" fill="#58a6ff" font-family="monospace" font-size="16" font-weight="bold">$ Status_Atual</text>
+
+  <g class="phrase p1">
+    <g clip-path="url(#cp1)"><text x="25" y="110" class="text">> Codando...</text></g>
+    <rect x="25" y="90" width="3" height="24" class="cursor c1 blink"/>
+  </g>
+  <g class="phrase p2">
+    <g clip-path="url(#cp2)"><text x="25" y="110" class="text">> Dormindo...</text></g>
+    <rect x="25" y="90" width="3" height="24" class="cursor c2 blink"/>
+  </g>
+  <g class="phrase p3">
+    <g clip-path="url(#cp3)"><text x="25" y="110" class="text">> Fazendo Miojin...</text></g>
+    <rect x="25" y="90" width="3" height="24" class="cursor c3 blink"/>
+  </g>
+  <g class="phrase p4">
+    <g clip-path="url(#cp4)"><text x="25" y="110" class="text">> Exploitando...</text></g>
+    <rect x="25" y="90" width="3" height="24" class="cursor c4 blink"/>
+  </g>
+  <g class="phrase p5">
+    <g clip-path="url(#cp5)"><text x="25" y="110" class="text">> Bebendo Coquinha...</text></g>
+    <rect x="25" y="90" width="3" height="24" class="cursor c5 blink"/>
+  </g>
+  <g class="phrase p6">
+    <g clip-path="url(#cp6)"><text x="25" y="110" class="text">> Jogando...</text></g>
+    <rect x="25" y="90" width="3" height="24" class="cursor c6 blink"/>
+  </g>
+  <g class="phrase p7">
+    <g clip-path="url(#cp7)"><text x="25" y="110" class="text">> Editando Video...</text></g>
+    <rect x="25" y="90" width="3" height="24" class="cursor c7 blink"/>
+  </g>
+  <g class="phrase p8">
+    <g clip-path="url(#cp8)"><text x="25" y="110" class="text">> Photoshopando...</text></g>
+    <rect x="25" y="90" width="3" height="24" class="cursor c8 blink"/>
+  </g>
+  <g class="phrase p9">
+    <g clip-path="url(#cp9)"><text x="25" y="110" class="text">> Xiitando...</text></g>
+    <rect x="25" y="90" width="3" height="24" class="cursor c9 blink"/>
+  </g>
+</svg>
